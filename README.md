@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ngamalecyber
 - 👀 I’m interested in cyber security issues 
 - 🌱 I’m currently learning cyber security 
-- 💞️ I’m looking to collaborate on ...
+  I’m looking to collaborate on such issue of cyber security 
 
 
 <!---
